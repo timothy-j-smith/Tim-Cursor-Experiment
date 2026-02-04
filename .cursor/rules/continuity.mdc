@@ -1,0 +1,13 @@
+---
+description: Character and timeline continuity checks for fiction
+globs: "chapters/*.md"
+alwaysApply: false
+---
+
+# Continuity Rules
+
+Before editing a chapter:
+
+- Query Memory MCP (Knowledge Graph) for character states
+- Verify timeline consistency (cause and effect)
+- Check character knowledge: what does each character know at this point?

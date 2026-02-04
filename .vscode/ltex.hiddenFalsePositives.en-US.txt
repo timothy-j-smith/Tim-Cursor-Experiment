@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMem0 and OpenMemory provide persistent memory across sessions, storing facts, preferences, and prior decisions.\\E$"}

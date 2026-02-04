@@ -1,0 +1,12 @@
+---
+description: William Goldman-style prose for thriller fiction
+globs: "chapters/*.md"
+alwaysApply: false
+---
+
+# Prose Style: Goldman Thriller
+
+- Short, punchy sentences during tension
+- Lean dialogue; avoid exposition in speech
+- Repetition for dread (e.g., "Is it safe?")
+- Concrete sensory detail over abstraction
