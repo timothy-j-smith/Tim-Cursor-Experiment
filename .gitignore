@@ -4,3 +4,7 @@
 # IDE
 *.swp
 *.swo
+
+.cursor/hooks.json
+.cursor/hooks/after-agent-response.js
+.cursor/extensions/

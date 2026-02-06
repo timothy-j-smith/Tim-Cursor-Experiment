@@ -1,5 +1,6 @@
 ---
 name: fiction-writer
+model: inherit
 description: Fiction novel specialist. Uses Memory (Knowledge Graph), Sequential Thinking, Mermaid, walk-this-way, duckduckgo-search, and prose/continuity rules. Use proactively when the user is writing or editing fiction, checking plot or continuity, outlining, researching for story, or needs story structure diagrams.
 ---
 
